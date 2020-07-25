@@ -1,3 +1,16 @@
+# shibamoff のブログ
+
+メモなどを置いておくブログです．
+
+[shibamoff.github.io/blog/](shibamoff.github.io/blog/)
+
+- Framework: [**Jekyll**](https://jekyllrb.com/)
+- Theme: [**jekyllDecent**](https://github.com/jwillmer/jekyllDecent)
+- Markdown: [**kramdown**](https://kramdown.gettalong.org/)
+- Math Engine: [**KaTeX**](https://katex.org/)
+
+KaTeX の導入について [晴耕雨読](https://github.com/tex2e/blog) を参考にしました．
+
 # jekyllDecent
 [![Build Status](https://travis-ci.org/jwillmer/jekyllDecent.svg?branch=gh-pages)](https://travis-ci.org/jwillmer/jekyllDecent) 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
