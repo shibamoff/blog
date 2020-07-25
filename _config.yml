@@ -41,3 +41,5 @@ compress_html:
     envs: [local]
   blanklines: true
   startings: [head, body]
+
+google_analytics: UA-....
