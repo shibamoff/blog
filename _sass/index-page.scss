@@ -20,8 +20,8 @@
 
         .post-header {
             overflow: hidden;
-            border-bottom: 1px solid #eeeeee;
-            margin-bottom: 10px;
+            border-bottom: 1px solid #dddddd;
+            margin-bottom: 5px;
         }
 
         .title a {
@@ -31,10 +31,9 @@
         .date {
             float: right;
             font-size: 12px;
-            text-transform: uppercase;
-            color: rgba(0,0,0,0.2);
+            color: rgba(0,0,0,0.6);
             line-height: 24px;
-            margin-top: 7px;
+            margin-top: 5px;
             margin-bottom: 0;
         }
     }
