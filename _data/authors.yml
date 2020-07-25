@@ -29,6 +29,6 @@ shibamoff:
   picture:      /assets/shibamoff.jpg 
   bio:          日々の記録を気が向いたときに書いていきます．
   location:     Japan     
-  cover:        /assets/mountain-alternative-cover.jpg  
+  cover:        /assets/flower-cover.jpg  
   email:        "shibeagogo@gmail.com"   
-  github:       shibamoff
+  # github:       shibamoff
