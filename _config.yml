@@ -44,4 +44,4 @@ compress_html:
   blanklines: true
   startings: [head, body]
 
-google_analytics: UA-....
+google_analytics: UA-70478308-3
