@@ -2,7 +2,7 @@
 
 メモなどを置いておくブログです．
 
-[shibamoff.github.io/blog/](shibamoff.github.io/blog/)
+[shibamoff.github.io/blog/](https://shibamoff.github.io/blog/)
 
 - Framework: [**Jekyll**](https://jekyllrb.com/)
 - Theme: [**jekyllDecent**](https://github.com/jwillmer/jekyllDecent)
