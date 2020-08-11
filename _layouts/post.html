@@ -9,7 +9,12 @@ layout: default
             <section class="post-meta">
                 <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
                 on 
-                <a href="{{ site.baseurl }}/#{{ page.category }}">{{ page.category }}</a>
+                <a href="{{ site.baseurl }}/#{{ page.category | uri_escape | downcase | slugify }}">{{ page.category }}</a>
+                {% if page.tag %}
+                {% for tag in page.tags limit:5 %}
+                 , <span>{{ tag }}</span>
+                {% endfor %}
+                {% endif %}
             </section>
         </header>
 

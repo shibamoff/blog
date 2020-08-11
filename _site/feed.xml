@@ -5,15 +5,15 @@
     <description>This is shibamoff's personal blog.</description>
     <link>/blog/</link>
     <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Sun, 26 Jul 2020 13:22:20 +0900</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2020 13:22:20 +0900</lastBuildDate>
+      <pubDate>Sun, 26 Jul 2020 17:36:23 +0900</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2020 17:36:23 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>ブログを始めました</title>
         <description>&lt;p&gt;このところ COVID-19 のせいで色々がキャンセルになったりしてずっと引きこもり生活で，アウトプットする機会が減っているので気分を一新するためにブログを始めてみたいと思います．勉強したこととかその他日頃のよしなしごとを載っけていく予定です．あんまり頻繁に更新できる気はしないですが．&lt;/p&gt;
 
-&lt;p&gt;ご覧の通り jekyll + Github Pages で，Twitter で見かけた &lt;a href=&quot;https://tex2e.github.io/blog/&quot;&gt;晴耕雨読&lt;/a&gt; さんが使用していた &lt;a href=&quot;https://jwillmer.github.io/jekyllDecent/&quot;&gt;jekylDecent&lt;/a&gt; というテーマがシンプルでホームの一覧性が高く気に入ったので使ってみています．&lt;/p&gt;
+&lt;p&gt;ご覧の通り Jekyll + Github Pages で，Twitter で見かけた &lt;a href=&quot;https://tex2e.github.io/blog/&quot;&gt;晴耕雨読&lt;/a&gt; さんが使用していた &lt;a href=&quot;https://jwillmer.github.io/jekyllDecent/&quot;&gt;jekylDecent&lt;/a&gt; というテーマがシンプルでホームの一覧性が高く気に入ったので使ってみています．&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 25 Jul 2020 00:00:00 +0900</pubDate>
