@@ -5,16 +5,15 @@
     <description>This is shibamoff's personal blog.</description>
     <link>/blog/</link>
     <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 25 Aug 2020 16:06:43 +0900</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2020 16:06:43 +0900</lastBuildDate>
+      <pubDate>Tue, 25 Aug 2020 18:44:26 +0900</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2020 18:44:26 +0900</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>経済学と倫理学</title>
-        <description>&lt;p&gt;『アマルティア・セン講義　経済学と倫理学』（ちくま学芸文庫，2016年）を数年ぶりに再読したのでメモする．&lt;/p&gt;
+        <description>&lt;p&gt;『アマルティア・セン講義　経済学と倫理学』（ちくま学芸文庫，2016年）を数年ぶりに再読したのでメモする．全体的なテーマは別の人のレビューに譲るとして，今回読んで個人的に一番印象に残った部分，第3章「自由と結果」において公共政策における決定の問題に言及する部分について抜粋して記録しておく．&lt;/p&gt;
 
-&lt;p&gt;特に第3章「自由と結果」において，公共政策における決定の問題に言及する部分があり，今回読んで一番印象に残った．
-この章ではまず，多数の項目について同時に選択する問題を考え，以下の3つの方針を提示している．&lt;/p&gt;
+&lt;p&gt;この章ではまず，多数の項目について同時に選択する問題を考え，以下の3つの方針を提示している．&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;方針1：全ての項目についてのトレードオフを比較考量した全順序を作ることによって選択する&lt;/li&gt;
   &lt;li&gt;方針2：部分的な比較のみを可能とする不完全な順序に基づいて選択する&lt;/li&gt;
